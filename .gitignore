@@ -1,1 +1,11 @@
+# mengingnore file :
+
 config.txt
+
+# mengingnore folder :
+
+data/
+
+# mrngingnore file bertipe, cth : exe :
+
+*.exe
